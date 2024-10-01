@@ -6,4 +6,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MRizki28/count.svg" />
 </p>
-[webdev]: https://github.com/Fardiansyah-Project/Fardiansyah-Project
+[webdev]: https://fardiansyah-project.github.io/My-portofolio-by-Tailwind
+
